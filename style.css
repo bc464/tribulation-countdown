@@ -26,11 +26,14 @@ body {
 }
 .main-heading {
 	color: var(--clr-white);
-	margin:5rem 0;
+	margin:5rem 0 0 0;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	font-size: 2.5rem;
 	font-weight: 500;
+}
+.date-heading {
+	margin: 0 0 5rem 0;
 }
 .text-heading {
 	color: var(--clr-white);
